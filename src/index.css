@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#drawer-side2 a.active {
+    color: white;
+  }
+  
+  #drawer-side2 a {
+    background-color: transparent;
+  }
+
+  #navbar a.active {
+    color: rgb(255, 209, 4);
+  }
+  #navbar a {
+    background-color: transparent
+  }
